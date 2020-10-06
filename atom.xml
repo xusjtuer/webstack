@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xusjtuer.github.io/webstacks/</id>
     <title>Gridea</title>
-    <updated>2020-10-06T09:26:42.489Z</updated>
+    <updated>2020-10-06T10:16:21.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xusjtuer.github.io/webstacks/"/>
     <link rel="self" href="https://xusjtuer.github.io/webstacks/atom.xml"/>
-    <subtitle>Unreal Engine webstack</subtitle>
+    <subtitle>虚幻引擎学习资源汇总</subtitle>
     <logo>https://xusjtuer.github.io/webstacks/images/avatar.png</logo>
     <icon>https://xusjtuer.github.io/webstacks/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
